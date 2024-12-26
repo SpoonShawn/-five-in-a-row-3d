@@ -1,0 +1,1 @@
+五子棋.exe可以直接运行使用；压缩包unity项目.zip是unity源文件；MonoBleedingEdge、UnityPlayer.dll、Data均为配置文件，保证exe正常运行！勿删！
